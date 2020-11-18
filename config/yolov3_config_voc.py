@@ -1,7 +1,7 @@
 # coding=utf-8
 # project
-DATA_PATH = "./dataset"
-PROJECT_PATH = "./"
+DATA_PATH = "/content/YOLOV3/dataset"
+PROJECT_PATH = "/content/YOLOV3"
 
 
 DATA = {"CLASSES":['aeroplane', 'bicycle', 'bird', 'boat', 'bottle', 'bus',
