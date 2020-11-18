@@ -1,3 +1,5 @@
+import sys
+sys.path.append("..")
 import xml.etree.ElementTree as ET
 import config.yolov3_config_voc as cfg
 import os
